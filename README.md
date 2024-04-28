@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dia also known as Tip , I am a software development from VietName
-- 👀 I’m interested in web development mobile application.
+- 👀 I’m interested in web development mobile application
 - 🌱 I’m currently learning the MERN Stack and perfecting nextjs
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me email:      nguyenvandiatlvn3 (@) gmail.com       
