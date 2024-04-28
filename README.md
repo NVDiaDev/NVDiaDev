@@ -1,16 +1,13 @@
-### Hi there 👋
+- 👋 Hi, I’m Dia also known as Tip , I am a software development from VietName
+- 👀 I’m interested in web development mobile application.
+- 🌱 I’m currently learning the MERN Stack and perfecting nextjs
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me email:      nguyenvandiatlvn3 (@) gmail.com       
 
-<!--
-**NVDiaDev/NVDiaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---
+BreadcrumbsNVDiaDev/BreadcrumbsNVDiaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+portfolio : https://dia2001.github.io/portfolio-website
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+linkedin : https://www.linkedin.com/in/Dia2001/
