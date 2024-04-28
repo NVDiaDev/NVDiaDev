@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dia also known as Tip , I am a software development from VietName
+- 👋 Hi, I’m Dia also known as Tip , I am a software development from VietNam
 - 👀 I’m interested in web development mobile application
 - 🌱 I’m currently learning the MERN Stack and perfecting nextjs
 - 💞️ I’m looking to collaborate on open source projects
